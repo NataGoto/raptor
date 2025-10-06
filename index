@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ПС ОДОМ - Документация RAPTOR</title>
+</head>
+<body>
+    <h1>Проект ПС ОДОМ - Анализ документации</h1>
+    
+    <h2>Визуализации RAPTOR:</h2>
+    <ul>
+        <li><a href="raptor_visio_edited.html">Технические условия (основная визуализация)</a></li>
+        <li><a href="equipment_analysis.html">Анализ оборудования</a> - для вставки</li>
+    </ul>
+    
+    <h2>Статус проекта:</h2>
+    <p>Последнее обновление: [дата]</p>
+</body>
+</html>
